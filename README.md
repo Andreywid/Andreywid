@@ -10,10 +10,11 @@ Shoot me [an e-mail](mailto:andreywid@gmail.com)!
  ## My Skills
 
  **Programing Languages**
+ 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python)
 
-<img align= "right" width= "250" src= "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGo0d3Rsc3l0ZmxydXl0MDF4eXY5N2x0aGRhYmZkaDIybTlubjM2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ex9YxMm0JBCpooHqEQ/giphy.webp"/>
+<img align= "right" width= "250" src= "https://cdna.artstation.com/p/assets/images/images/068/457/252/original/dany-jauregui-neon-shadow-omen-spray-gif.gif?1697839230"/>
 
 **Developer Tools**
 
