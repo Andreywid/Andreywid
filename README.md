@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Andreywid Souza💻</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rodada+Varela&color=FFFFFF&size=32&center=true&vCenter=true&width=720&height=50&lines=Hi%2C+I'm+Andreywid+Souza💻!;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 ## About Me :wave:
 
