@@ -11,8 +11,8 @@ Shoot me [an e-mail](mailto:andreywid@gmail.com)!
 
  **Programing Languages**
  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python)
 
 <img align= "right" width= "250" src= "https://cdna.artstation.com/p/assets/images/images/068/457/252/original/dany-jauregui-neon-shadow-omen-spray-gif.gif?1697839230"/>
 
@@ -24,7 +24,7 @@ Shoot me [an e-mail](mailto:andreywid@gmail.com)!
 
 **Contact Me**
 
-[![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/Andreywid/Andreywid/)
+[![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/Andreywid)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andreywid-souza-85554b233/)
 
 **GitHub Stats**
